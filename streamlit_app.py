@@ -55,6 +55,8 @@ def main():
     st.markdown(
         """<style>
         .block-container {padding: 0}
+        #MainMenu {visibility: hidden;}
+        footer {visibility: hidden;}
         </style>""",
         unsafe_allow_html=True
     )
