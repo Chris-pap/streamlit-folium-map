@@ -11,3 +11,6 @@ This Streamlit web application allows users to explore a map of companies in a s
 - **data_folium.py**: Python module for loading data and applying filters.
 - **data.csv**: Sample dataset containing company information.
 - **requirements.txt**: Text file listing the required Python packages for installation.
+
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://greekcompaniesdata.streamlit.app)
